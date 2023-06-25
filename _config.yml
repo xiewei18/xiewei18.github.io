@@ -7,8 +7,8 @@ repository: xiewei18/xiewei18.github.io
 version: 2
 
 # Personal info
-name: Wei XIE
-title: Ph.D. Candidate
+name: Wei XIE (解伟)
+title: Ph.D. Candidate in Environmental Science
 email: wxie18@fudan.edu.cn
 # email_title: Email (Email title override)
 phone: +86 18511663858
@@ -35,10 +35,10 @@ orcid_username: 0000-0001-9787-6057
 googlescholar_username: XBUp9EoAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -53,58 +53,93 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  Wei XIE is currently a Ph.D. candidate at Fudan University in Environmental Science. 
+  He is also a YSSP at IIASA in the year 2022. He graduated from Shandong University, China, in 2015 with a degree in Ecology. 
+  He completed his MS degree in Landscape Ecology at the Chinese Academy of Sciences (2018). 
+  His main fields of scientific interest include land management, land resource metabolism, and industrial system analysis. 
+  Specifically, he focuses on: 
+  - 1) the land resource use and virtual flows between industrial and socio-economic systems;
+  - 2) the interactions between natural systems and human systems linked to land use.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       border: weak  # Value of `weak` will display a weak border below this item. # Any 
+  #                     # other value (or no value) means no border will be displayed
+  #       title: Project name
+  #       link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #       link_text: Link Text
+  #       additional_links:
+  #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #           icon: fab fa-github
+  #           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #           icon: fab fa-github
+  #           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #       quote: >
+  #         Short overview of the project (optional)
+  #       description: | # this will include new lines to allow paragraphs
+  #         Description about the work on/with the project
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
+        title: International Institute for Applied Systems Analysis (IIASA)
+        sub_title: Research Assistant - YSSP Fellow
+        caption: Jun 2022 - Oct 2022 · 5 mos
+        link: https://www.iiasa.ac.at
+        quote: > # Short description of the company (optional)
+         
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Participated as a YSSP fellow in Systemic Risk and Resilience (SYRR) group, Advancing System Analysis (ASA) program at IIASA.
+      - layout: right
+        title: IBM China Research Laboratory
+        sub_title: Engineer InternEngineer Intern
+        caption: Sep 2017 - Feb 2018 · 6 mos
+        link: 
+        quote: > # Short description of the company (optional)
+         
+        description: | # this will include new lines to allow paragraphs
+          He was an intern engineer in the AI intelligent medical project at IBM China Research Laboratory. This project uses AI intelligent image recognition and semantic processing technology to build an AI intelligent medical system based on evidence-based medical experience to realize artificial intelligence medical assistance such as intelligent health warning and epidemic-assisted decision making. In the project, he is mainly involved in the semantic processing of evidence-based medical information and the construction of medical image recognition system.
+      - layout: right
+        title: Institute of Botany, The Chinese Academy of Sciences
+        sub_title: Research Assistant Intern
+        caption: Jun 2014 - Aug 2014 · 3 mos
+        link: 
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          He was involved in the digital identification of biodiversity documentation and specimens. This project is based on the identification of current and historical biodiversity distributions using optical image processing (OCR) technology and geospatially formatted data based on text description dumps, with the ultimate goal of establishing a database of the distribution of Chinese vascular plant diversity at the county level or equivalent spatial scale based on historical documentation.
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Fudan University
+        sub_title: Environmental Science
+        caption: 2018 - present
         quote: >
-          Short institution or course description (optional)
+          Short institution or course description
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Ph.D. student at Fudan University, research focuses on land system science and industrial system science. (updating...)
+      - layout: top-right
+        title: Research Center for Eco-Environmental Sciences, The Chinese Academy of Sciences
+        sub_title: Landscape Ecology
+        caption: 2015 - 2018
+        quote: >
+          RCEES, CAS
+        description: | # this will include new lines to allow paragraphs
+          He completed his MS degree in Landscape Ecology at the Chinese Academy of Sciences (2018). He focused on urban heats island.
+          Skills: Python (Programming Language) · R (Programming Language) · Urban Ecology · Urban Economics · Geographic Information Systems (GIS) · Ecosystem Services
+      - layout: top-right
+        title: Shandong University
+        sub_title: Ecology (Life Science)
+        caption: 2011 - 2015 
+        quote: >
+          SDU, since 1901
+        description: | # this will include new lines to allow paragraphs
+          He graduated from Shandong University, China, in 2015 with a degree in Ecology.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
