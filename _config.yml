@@ -85,16 +85,16 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: International Institute for Applied Systems Analysis (IIASA)
         sub_title: Research Assistant - YSSP Fellow
         caption: Jun 2022 - Oct 2022 · 5 mos
-        link: https://www.iiasa.ac.at
+        link: https://iiasa.ac.at
         quote: > # Short description of the company (optional)
          
         description: | # this will include new lines to allow paragraphs
           Participated as a YSSP fellow in Systemic Risk and Resilience (SYRR) group, Advancing System Analysis (ASA) program at IIASA.
-      - layout: right
+      - layout: left
         title: IBM China Research Laboratory
         sub_title: Engineer InternEngineer Intern
         caption: Sep 2017 - Feb 2018 · 6 mos
@@ -103,7 +103,7 @@ content:
          
         description: | # this will include new lines to allow paragraphs
           He was an intern engineer in the AI intelligent medical project at IBM China Research Laboratory. This project uses AI intelligent image recognition and semantic processing technology to build an AI intelligent medical system based on evidence-based medical experience to realize artificial intelligence medical assistance such as intelligent health warning and epidemic-assisted decision making. In the project, he is mainly involved in the semantic processing of evidence-based medical information and the construction of medical image recognition system.
-      - layout: right
+      - layout: left
         title: Institute of Botany, The Chinese Academy of Sciences
         sub_title: Research Assistant Intern
         caption: Jun 2014 - Aug 2014 · 3 mos
@@ -115,27 +115,30 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title: Fudan University
         sub_title: Environmental Science
         caption: 2018 - present
+        link: https://www.fudan.edu.cn
         quote: >
           Short institution or course description
         description: | # this will include new lines to allow paragraphs
           Ph.D. student at Fudan University, research focuses on land system science and industrial system science. (updating...)
-      - layout: top-right
+      - layout: top-left
         title: Research Center for Eco-Environmental Sciences, The Chinese Academy of Sciences
         sub_title: Landscape Ecology
         caption: 2015 - 2018
+        link: https://www.rcees.ac.cn
         quote: >
           RCEES, CAS
         description: | # this will include new lines to allow paragraphs
           He completed his MS degree in Landscape Ecology at the Chinese Academy of Sciences (2018). He focused on urban heats island.
           Skills: Python (Programming Language) · R (Programming Language) · Urban Ecology · Urban Economics · Geographic Information Systems (GIS) · Ecosystem Services
-      - layout: top-right
+      - layout: top-left
         title: Shandong University
         sub_title: Ecology (Life Science)
         caption: 2011 - 2015 
+        link: https://www.sdu.edu.cn
         quote: >
           SDU, since 1901
         description: | # this will include new lines to allow paragraphs
