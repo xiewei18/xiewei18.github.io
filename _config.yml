@@ -7,9 +7,9 @@ repository: xiewei18/xiewei18.github.io
 version: 2
 
 # Personal info
-name: >+
-  Wei Xie
-title: Ph.D. Candidate in Environmental Science
+name: Wei Xie
+title: |
+  Ph.D. Candidate | Urban Ecology & Industrial Ecology
 email: wxie18@fudan.edu.cn
 # email_title: Email (Email title override)
 phone: +86 18511663858
@@ -62,6 +62,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   Specifically, he focuses on: 1) the land resource use and virtual flows between industrial and socio-economic systems; 
   and 2) the interactions between natural systems and human systems linked to land use.
+
+  He is familiar with <mark>Python&R</mark>, <mark>GIS</mark>, <mark>PL/SQL</mark>, and <mark>ML</mark> skills.
 
 content:
   # - title: Projects # Title for the section
