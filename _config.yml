@@ -7,7 +7,7 @@ repository: xiewei18/xiewei18.github.io
 version: 2
 
 # Personal info
-name: Wei XIE (解伟)
+name: Wei Xie
 title: Ph.D. Candidate in Environmental Science
 email: wxie18@fudan.edu.cn
 # email_title: Email (Email title override)
@@ -56,7 +56,9 @@ about_content: | # this will include new lines to allow paragraphs
   Wei XIE is currently a Ph.D. candidate at [Fudan University](https://www.fudan.edu.cn/en/About/main.htm) in Environmental Science. 
   He is also a YSSP at [IIASA](https://iiasa.ac.at/) in the year 2022. He graduated from [Shandong University](https://www.en.sdu.edu.cn/), China, in 2015 with a degree in Ecology. 
   He completed his MS degree in Landscape Ecology at the [Chinese Academy of Sciences](http://english.rcees.cas.cn/) (2018). 
+  
   His main fields of scientific interest include <mark>land system science</mark>, <mark>urban metabolism</mark>, and <mark>industrial system analysis</mark>. 
+  
   Specifically, he focuses on: 1) the land resource use and virtual flows between industrial and socio-economic systems; 
   and 2) the interactions between natural systems and human systems linked to land use.
 
@@ -117,31 +119,31 @@ content:
       - layout: top-left
         title: Fudan University
         sub_title: Environmental Science
-        caption: 2018 - present
+        caption: Ph.D. 2018 - present
         link: https://www.fudan.edu.cn
         quote: >
-          Short institution or course description
+          Department of Environmental Science and Engineering, Fudan University
         description: | # this will include new lines to allow paragraphs
           Ph.D. student at Fudan University, research focuses on land system science and industrial system science. (updating...)
       - layout: top-left
-        title: Research Center for Eco-Environmental Sciences, The Chinese Academy of Sciences
+        title: The Chinese Academy of Sciences
         sub_title: Landscape Ecology
-        caption: 2015 - 2018
+        caption: M.S. 2015 - 2018
         link: https://www.rcees.ac.cn
         quote: >
-          RCEES, CAS
+          Research Center for Eco-Environmental Sciences, The Chinese Academy of Sciences
         description: | # this will include new lines to allow paragraphs
           He completed his MS degree in Landscape Ecology at the Chinese Academy of Sciences (2018). He focused on urban heats island.
           Skills: Python (Programming Language) · R (Programming Language) · Urban Ecology · Urban Economics · Geographic Information Systems (GIS) · Ecosystem Services
       - layout: top-left
         title: Shandong University
         sub_title: Ecology (Life Science)
-        caption: 2011 - 2015 
+        caption: B.S. 2011 - 2015 
         link: https://www.sdu.edu.cn
         quote: >
-          SDU, since 1901
+          School of Life Sciences, Shandong University
         description: | # this will include new lines to allow paragraphs
-          He graduated from Shandong University, China, in 2015 with a degree in Ecology.
+          He graduated from Shandong University, China, in 2015 with a degree in Ecology. 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
