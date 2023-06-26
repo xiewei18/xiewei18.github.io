@@ -60,10 +60,10 @@ about_content: | # this will include new lines to allow paragraphs
   
   His main fields of scientific interest include <mark>land system science</mark>, <mark>urban metabolism</mark>, and <mark>industrial system analysis</mark>. 
   
-  Specifically, he focuses on: 1) the land resource use and virtual flows between industrial and socio-economic systems; 
-  and 2) the interactions between natural systems and human systems linked to land use.
+  Specifically, he focuses on: 1) the *land resource use* and virtual *flows* between industrial and socio-economic systems; 
+  and 2) the *interactions* between natural systems and human systems linked to land use.
 
-  He is familiar with <mark>Python&R</mark>, <mark>GIS</mark>, <mark>PL/SQL</mark>, and <mark>ML</mark> skills.
+  He is familiar with *Python & R*, *GIS*, *PL/SQL*, and *ML* skills.
 
 content:
   # - title: Projects # Title for the section
@@ -100,7 +100,7 @@ content:
           Participated as a YSSP fellow in Systemic Risk and Resilience (SYRR) group, Advancing System Analysis (ASA) program at IIASA.
       - layout: left
         title: IBM China Research Laboratory
-        sub_title: Engineer InternEngineer Intern
+        sub_title: Engineer Intern
         caption: Sep 2017 - Feb 2018 · 6 mos
         link: 
         quote: > # Short description of the company (optional)
