@@ -60,10 +60,10 @@ about_content: | # this will include new lines to allow paragraphs
   
   His main fields of scientific interest include <mark>land system science</mark>, <mark>urban metabolism</mark>, and <mark>industrial system analysis</mark>. 
   
-  Specifically, he focuses on: 1) the *land resource use* and virtual *flows* between industrial and socio-economic systems; 
-  and 2) the *interactions* between natural systems and human systems linked to land use.
+  Specifically, he focuses on: 1) the **land resource use** and virtual **flows** between industrial and socio-economic systems; 
+  and 2) the **interactions** between **natural systems and human systems** linked to land use.
 
-  He is familiar with *Python & R*, *GIS*, *PL/SQL*, and *ML* skills.
+  He is familiar with **Python & R**, **GIS**, **PL/SQL**, and **ML** skills.
 
 content:
   # - title: Projects # Title for the section
