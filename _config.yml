@@ -7,7 +7,8 @@ repository: xiewei18/xiewei18.github.io
 version: 2
 
 # Personal info
-name: Wei Xie
+name: >+
+  Wei Xie
 title: Ph.D. Candidate in Environmental Science
 email: wxie18@fudan.edu.cn
 # email_title: Email (Email title override)
@@ -54,7 +55,7 @@ googlescholar_username: XBUp9EoAAAAJ
 about_profile_image: images/cartoon.png
 about_content: | # this will include new lines to allow paragraphs
   Wei XIE is currently a Ph.D. candidate at [Fudan University](https://www.fudan.edu.cn/en/About/main.htm) in Environmental Science. 
-  He is also a YSSP at [IIASA](https://iiasa.ac.at/) in the year 2022. He graduated from [Shandong University](https://www.en.sdu.edu.cn/), China, in 2015 with a degree in Ecology. 
+  He is also a YSSP in Advancing System Analysis ([ASA](https://iiasa.ac.at/programs/asa)) program at [IIASA](https://iiasa.ac.at/) in the year 2022. He graduated from [Shandong University](https://www.en.sdu.edu.cn/), China, in 2015 with a degree in Ecology. 
   He completed his MS degree in Landscape Ecology at the [Chinese Academy of Sciences](http://english.rcees.cas.cn/) (2018). 
   
   His main fields of scientific interest include <mark>land system science</mark>, <mark>urban metabolism</mark>, and <mark>industrial system analysis</mark>. 
