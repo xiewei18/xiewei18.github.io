@@ -118,8 +118,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Sun, R., Xie, W., & Chen, L. (2018). A landscape connectivity model to quantify contributions of heat sources and sinks in urban regions. Landscape and Urban Planning, 178, 43–50. [https://doi.org/10.1016/j.landurbplan.2018.05.015](https://doi.org/10.1016/j.landurbplan.2018.05.015)
           - **Xie, W.** (2018). The spatial-temporal impact of landscape pattern and anthropogenic heat on Urban Heat Island [M.S. Thesis]. University of Chinese Academy of Sciences.
-
-
   - title: Experience
     layout: list
     content:
