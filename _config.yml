@@ -128,8 +128,6 @@ content:
         sub_title: Research Assistant - YSSP Fellow
         caption: Jun 2022 - Oct 2022 · 5 mos
         link: https://iiasa.ac.at
-        quote: > # Short description of the company (optional)
-         
         description: | # this will include new lines to allow paragraphs
           Participated as a YSSP fellow in Systemic Risk and Resilience (SYRR) group, Advancing System Analysis (ASA) program at IIASA.
       - layout: top-left
@@ -137,8 +135,6 @@ content:
         sub_title: Engineer Intern
         caption: Sep 2017 - Feb 2018 · 6 mos
         link: 
-        quote: > # Short description of the company (optional)
-         
         description: | # this will include new lines to allow paragraphs
           He was an intern engineer in the AI intelligent medical project at IBM China Research Laboratory. This project uses AI intelligent image recognition and semantic processing technology to build an AI intelligent medical system based on evidence-based medical experience to realize artificial intelligence medical assistance such as intelligent health warning and epidemic-assisted decision making. In the project, he is mainly involved in the semantic processing of evidence-based medical information and the construction of medical image recognition system.
       - layout: top-left
@@ -146,8 +142,6 @@ content:
         sub_title: Research Assistant Intern
         caption: Jun 2014 - Aug 2014 · 3 mos
         link: 
-        quote: >
-          
         description: | # this will include new lines to allow paragraphs
           He was involved in the digital identification of biodiversity documentation and specimens. This project is based on the identification of current and historical biodiversity distributions using optical image processing (OCR) technology and geospatially formatted data based on text description dumps, with the ultimate goal of establishing a database of the distribution of Chinese vascular plant diversity at the county level or equivalent spatial scale based on historical documentation.
   - title: Education
