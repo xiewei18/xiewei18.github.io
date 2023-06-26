@@ -91,16 +91,28 @@ content:
   #         Description about the work on/with the project
   - title: Publication
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: |+ # this will include new lines to allow paragraphs
+      <mark>2022</mark>
+      
       - **Xie, W.** (2022). Ecological network analysis of urban land resource use within China [IIASA YSSP Report]. IIASA. [https://pure.iiasa.ac.at/id/eprint/18728/](https://pure.iiasa.ac.at/id/eprint/18728/)
+      
       - **Xie, W.**, Yu, H., Li, Y., Dai, M., Long, X., Li, N., & Wang, Y. (2022). Estimation of entity‐level land use and its application in urban sectoral land use footprint: A bottom‐up model with emerging geospatial data. Journal of Industrial Ecology, 26(1), 309–322. [https://doi.org/10.1111/jiec.13191](https://doi.org/10.1111/jiec.13191)
+      
+      <mark>2021</mark>
+      
       - Yu, H., **Xie, W.**, Sun, L., & Wang, Y. (2021). Identifying the regional disparities of ecosystem services from a supply-demand perspective. Resources, Conservation and Recycling, 169, 105557. [https://doi.org/10.1016/j.resconrec.2021.105557](https://doi.org/10.1016/j.resconrec.2021.105557)
       - Li, J., Sun, R., Liu, T., **Xie, W.**, & Chen, L. (2021). Prediction models of urban heat island based on landscape patterns and anthropogenic heat dynamics. Landscape Ecology, 36(6), 1801–1815. [https://doi.org/10.1007/s10980-021-01246-2](https://doi.org/10.1007/s10980-021-01246-2)
+      
+      <mark>2020</mark>
       - Liang, S., Yang, X., Qi, J., Wang, Y., **Xie, W.**, Muttarak, R., & Guan, D. (2020). CO2 Emissions Embodied in International Migration from 1995 to 2015. Environmental Science & Technology, 54(19), 12530–12538. [https://doi.org/10.1021/acs.est.0c04600](https://doi.org/10.1021/acs.est.0c04600)
       - Long, X., Yu, H., Sun, M., Wang, X.-C., Klemeš, J. J., **Xie, W.**, Wang, C., Li, W., & Wang, Y. (2020). Sustainability evaluation based on the Three-dimensional Ecological Footprint and Human Development Index: A case study on the four island regions in China. Journal of Environmental Management, 265, 110509. [https://doi.org/10.1016/j.jenvman.2020.110509](https://doi.org/10.1016/j.jenvman.2020.110509)
       - Yu, Z., Chen, T., Yang, G., Sun, R., **Xie, W.**, & Vejre, H. (2020). Quantifying seasonal and diurnal contributions of urban landscapes to heat energy dynamics. Applied Energy, 264, 114724. [https://doi.org/10.1016/j.apenergy.2020.114724](https://doi.org/10.1016/j.apenergy.2020.114724)
       - Yu, H., **Xie, W.**, Yang, L., Du, A., Almeida, C. M. V. B., & Wang, Y. (2020). From payments for ecosystem services to eco-compensation: Conceptual change or paradigm shift? Science of The Total Environment, 700, 134627. [https://doi.org/10.1016/j.scitotenv.2019.134627](https://doi.org/10.1016/j.scitotenv.2019.134627)
+      
+      <mark>2019</mark>
       - Wang, Y., Yu, H., Wang, C., & **Xie, W.**. (2019). Ecological Assets Accounting and Ecological Compensation Mechanism: A Systematic Review (in Chinese). Chinese Journal of Environmental Management, 11(3), 31–35.
+      
+      <mark>2018</mark>
       - Sun, R., **Xie, W.**, & Chen, L. (2018). A landscape connectivity model to quantify contributions of heat sources and sinks in urban regions. Landscape and Urban Planning, 178, 43–50. [https://doi.org/10.1016/j.landurbplan.2018.05.015](https://doi.org/10.1016/j.landurbplan.2018.05.015)
       - **Xie, W.** (2018). The spatial-temporal impact of landscape pattern and anthropogenic heat on Urban Heat Island [M.S. Thesis]. University of Chinese Academy of Sciences.
 
