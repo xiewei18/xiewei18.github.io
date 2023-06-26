@@ -142,7 +142,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           He was an intern engineer in the AI intelligent medical project at IBM China Research Laboratory. This project uses AI intelligent image recognition and semantic processing technology to build an AI intelligent medical system based on evidence-based medical experience to realize artificial intelligence medical assistance such as intelligent health warning and epidemic-assisted decision making. In the project, he is mainly involved in the semantic processing of evidence-based medical information and the construction of medical image recognition system.
       - layout: left
-        title: Institute of Botany, The Chinese Academy of Sciences
+        title: Institute of Botany, Chinese Academy of Sciences
         sub_title: Research Assistant Intern
         caption: Jun 2014 - Aug 2014 · 3 mos
         link: 
@@ -163,7 +163,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Ph.D. student at Fudan University, research focuses on land system science and industrial system science. (updating...)
       - layout: top-left
-        title: The Chinese Academy of Sciences
+        title: Chinese Academy of Sciences
         sub_title: Landscape Ecology
         caption: M.S. 2015 - 2018
         link: https://www.rcees.ac.cn
