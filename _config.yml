@@ -52,7 +52,7 @@ googlescholar_username: XBUp9EoAAAAJ
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/cartoon.png
+about_profile_image: profile.png
 about_content: | # this will include new lines to allow paragraphs
   Wei XIE is currently a Ph.D. candidate at [Fudan University](https://www.fudan.edu.cn/en/About/main.htm) in Environmental Science. 
   He is also a YSSP in Advancing System Analysis ([ASA](https://iiasa.ac.at/programs/asa)) program at [IIASA](https://iiasa.ac.at/) in the year 2022. He graduated from [Shandong University](https://www.en.sdu.edu.cn/), China, in 2015 with a degree in Ecology. 
@@ -66,6 +66,7 @@ about_content: | # this will include new lines to allow paragraphs
   He is familiar with *Python & R*, *GIS*, *PL/SQL*, and *ML* skills.
 
   // Find my research via [ResearchGate](https://www.researchgate.net/profile/Wei-Xie-9) or [GoogleScholar](https://scholar.google.com/citations?user=XBUp9EoAAAAJ&hl=en&oi=ao).
+
   // Reach me through [Twitter](https://twitter.com/wxie96) or [Email](mailto:wxie18@fudan.edu.cn).
   
   :-)
