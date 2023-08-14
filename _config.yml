@@ -164,7 +164,7 @@ content:
         link: https://iiasa.ac.at
         description: | # this will include new lines to allow paragraphs
           Participated as a YSSP fellow in Systemic Risk and Resilience (SYRR) group, Advancing System Analysis (ASA) program at IIASA.
-          The project aims to explore the virtual flow and network relationship of international inter-provincial land resources related to non-agricultural production activities in China. Based on a pre-established multi-regional and multi-sectoral land use dataset, we identified the land use footprints of and the interwoven connections among economic sectors and regions in China. The result shows that land resource use exhibits a high degree of spatial concentration and heterogeneity. High production-based footprints were mainly found in the east coastal provinces, with high industrial development, while high consumption-based footprint was mainly related to the provincial population. The industrially developed provinces, as the main virtual land outflow areas, also exhibit a more complex network structure, with higher total system throughflow, more resource flow pathways, longer path length, and greater circularity. Our results reveal the association between human socioeconomic activity with direct land demand and virtual land flows. It helps to understand the operation and future land demand of urban systems.
+          The project aims to explore the spatial footprints, the virtual flows and the intervowen linkages of land resources related to non-agricultural economic activities in China. Multi-regional and multi-sectoral land use dataset was established, and EEIOA and ENA approaches were further used to identify the land-related connections among economic sectors and regions in China. The result shows that land resource use exhibits a high degree of spatial concentration and heterogeneity. High production-based footprints were mainly found in the east coastal provinces, with high industrial development, while high consumption-based footprint was mainly related to the provincial population. The industrially developed provinces, as the main virtual land outflow areas, also exhibit a more complex network structure, with higher total system throughflow, more resource flow pathways, longer path length, and greater circularity. Our results reveal the association between human socioeconomic activity with direct land demand and virtual land flows. It helps to understand the operation and future land demand of urban systems.
       - layout: top-left
         title: IBM China Research Laboratory
         sub_title: Engineer Intern
@@ -190,11 +190,11 @@ content:
         quote: >
           Department of Environmental Science and Engineering, Fudan University
         description: | # this will include new lines to allow paragraphs
-          My main contribution is in identifying and building entity-level national land-use dataset, and further quantification of land telecouplings and network relationships. I established a land use estimation system using crowdsourced data and machine learning approach. We provide spatially explicit land use inventories at a spatial resolution of 30m for all economic sectors (42 categories). This provides potential value for related studies in industrial ecology and urban ecology, such as quantifying spatially explicit environmental impacts, bridging the gap between top-down and bottom-up statistics, exploring industrial agglomeration and economic geographic distribution, and understanding urban scaling & human mobility.
+          My main contribution is in identifying and building entity-level national land-use dataset, and further quantification of land telecouplings and network relationships. I established a land use estimation system using crowdsourced data and machine learning approach. We provide spatially explicit land use inventories at a spatial resolution of 30m for all economic sectors (42 categories). This provides potential value for related studies in industrial ecology and urban ecology, such as quantifying spatially explicit environmental impacts, bridging the gap between top-down and bottom-up statistics, exploring industrial agglomeration and economic geographic distribution, and understanding urban scaling & human mobility. Here, I developed my understanding of industrial systems, my knowledge of industrial ecology, and sparked my interests in complexity and system science.
 
-          Skills: PL/SQL · postgis · GEE · Matlab · GIS/RS · WebDesign
+          *Skills*: PL/SQL · postgis · GEE · Matlab · GIS/RS · WebDesign
 
-          Knowledge: Industrial Ecology · Environmental Accounting · Urban metabolism · System Science · Sustainable Science
+          *Knowledge*: Industrial Ecology · Environmental Accounting · Urban metabolism · System Science · Sustainable Science
       - layout: top-left
         title: Chinese Academy of Sciences
         sub_title: Landscape Ecology
@@ -203,11 +203,11 @@ content:
         quote: >
           Research Center for Eco-Environmental Sciences, The Chinese Academy of Sciences
         description: | # this will include new lines to allow paragraphs
-          During my MS., I revealed how the spatial landscape pattern of anthropogenic heat and land cover influence and shape the urban thermal environment, using source-sink theory and landscape ecology theory. Beijing, one of the biggest megacities in China, was taken as the research area. A hierarchical grid system was established, and the landscape pattern was assessed within each grid. We evaluated the spatial and temporal dynamics of urban heat island intensities through time-series thermal infrared remote sensing images. Multivariate stepwise regression was used to quantify the effects of landscape composition, landscape pattern, and anthropogenic heat intensity to urban heat islands.
+          During my MS., I revealed how the spatial landscape pattern of anthropogenic heat and land cover influence and shape the urban thermal environment, using source-sink theory and landscape ecology theory. Beijing, one of the biggest megacities in China, was taken as the research area. A hierarchical grid system was established, and the landscape pattern was assessed within each grid. We evaluated the spatial and temporal dynamics of urban heat island intensities through time-series thermal infrared remote sensing images. Multivariate stepwise regression was used to quantify the effects of landscape composition, landscape pattern, and anthropogenic heat intensity to urban heat islands. Here, I developed my interests and abilities in landscape ecology, urban ecology, and spatial technology.
 
-          Skills: Python · R · GIS · RS
+          *Skills*: Python · R · GIS · RS
 
-          Knowledge: Urban Ecology · Landscape Ecology · Ecosystem Services · Geographic Science
+          *Knowledge*: Urban Ecology · Landscape Ecology · Ecosystem Services · Geographic Science
       - layout: top-left
         title: Shandong University
         sub_title: Ecology (Life Science)
@@ -216,17 +216,21 @@ content:
         quote: >
           School of Life Sciences, Shandong University
         description: | # this will include new lines to allow paragraphs
-          He graduated from Shandong University, China, in 2015 with a degree in Ecology. 
-  - title: A Little More About Me
+          He graduated from Shandong University, China, in 2015 with a degree in Ecology. Here, he greatly developed his diverse interests, broadened his knowledge and horizons, met super awesome friends and made contributions together for the Youth Volunteer Association of the School of Life Sciences, the Computer Technology Association of the university, and the Bulletin Board Forum website of the university. It was also here that he started his interest and research career of Ecology.
+
+          *Skills*: WebDesign · Linux · Computer Maintenance · Basic Coding
+
+          *Knowledge*: Ecology · Life Science
+  - title: In a way 🌱 About Wei
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Love the [excellent](https://en.wikipedia.org/wiki/How_To_with_John_Wilson) life. 
+      - Love the [excellent](https://en.wikipedia.org/wiki/How_To_with_John_Wilson) life. 
       
-      Keep enthusiasm and diversity of me, of [Earth](http://species-in-pieces.com/). :D
+      - Keep passion and diversity of [me](https://twitter.com/wxie96), of [Earth](http://species-in-pieces.com/). :D
 
-      🦕 Open the [door](https://en.wikipedia.org/wiki/Anthropocene), Get on the [floor](https://pubmed.ncbi.nlm.nih.gov/35131937/), [♪ Everybody](https://www.youtube.com/watch?v=vgiDcJi534Y) 💃🕺 [walk the dinosaur](https://www.science.org/content/article/how-did-one-world-s-biggest-dinosaurs-walk-footprints-offer-clues). 
+      🦕 Open the [door](https://en.wikipedia.org/wiki/Anthropocene), Get on the [floor](https://pubmed.ncbi.nlm.nih.gov/35131937/), [♪ Everybody](https://www.youtube.com/watch?v=vgiDcJi534Y) [walk the dinosaur](https://www.science.org/content/article/how-did-one-world-s-biggest-dinosaurs-walk-footprints-offer-clues). 
       
-      🌠 Boom-[boom](https://www.science.org/doi/10.1126/science.1111772), 🤟[acka](https://en.wikipedia.org/wiki/Systems_science)-[lacka](https://www.undrr.org/publication/understanding-and-managing-cascading-and-systemic-risks-lessons-covid-19),👉 [boom](https://www.ipcc.ch/srccl/)-[boom](https://www.nature.com/articles/s41559-019-0797-2)
+      🌠 Boom-[boom](https://www.science.org/doi/10.1126/science.1111772), [acka](https://en.wikipedia.org/wiki/Systems_science)-[lacka](https://www.undrr.org/publication/understanding-and-managing-cascading-and-systemic-risks-lessons-covid-19), [boom](https://www.ipcc.ch/srccl/)-[boom](https://www.nature.com/articles/s41559-019-0797-2).
       
 
 # Footer
