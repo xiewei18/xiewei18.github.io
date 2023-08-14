@@ -135,7 +135,7 @@
 
 .layout-top-middle, .layout-top, .layout-top-right {
   flex-direction: column;
-
+  vertival-align: top;
   .details, .content {
     width: 100%;
   }
