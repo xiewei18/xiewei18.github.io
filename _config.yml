@@ -7,7 +7,7 @@ repository: xiewei18/xiewei18.github.io
 version: 2
 
 # Personal info
-name: Wei XIE
+name: *Wei XIE*
 title: |
   Ph.D. Candidate | Urban Ecology & Industrial Ecology
 email: wxie18@fudan.edu.cn
@@ -164,20 +164,22 @@ content:
         link: https://iiasa.ac.at
         description: | # this will include new lines to allow paragraphs
           Participated as a YSSP fellow in Systemic Risk and Resilience (SYRR) group, Advancing System Analysis (ASA) program at IIASA.
+
+          The project aims to explore the virtual flow and network relationship of international inter-provincial land resources related to non-agricultural production activities in China. Based on a pre-established multi-regional and multi-sectoral land use dataset, we identified the land use footprints of and the interwoven connections among economic sectors and regions in China. The result shows that land resource use exhibits a high degree of spatial concentration and heterogeneity. High production-based footprints were mainly found in the east coastal provinces, with high industrial development, while high consumption-based footprint was mainly related to the provincial population. The industrially developed provinces, as the main virtual land outflow areas, also exhibit a more complex network structure, with higher total system throughflow, more resource flow pathways, longer path length, and greater circularity. Our results reveal the association between human socioeconomic activity with direct land demand and virtual land flows. It helps to understand the operation and future land demand of urban systems.
       - layout: top-left
         title: IBM China Research Laboratory
         sub_title: Engineer Intern
         caption: Sep 2017 - Feb 2018 · 6 mos
         link: 
         description: | # this will include new lines to allow paragraphs
-          He was an intern engineer in the AI intelligent medical project at IBM China Research Laboratory. This project uses AI intelligent image recognition and semantic processing technology to build an AI intelligent medical system based on evidence-based medical experience to realize artificial intelligence medical assistance such as intelligent health warning and epidemic-assisted decision making. In the project, he is mainly involved in the semantic processing of evidence-based medical information and the construction of medical image recognition system.
+          I involved as an intern engineer in the AI intelligent medical project at IBM China Research Laboratory. This endeavor seeks to employ Artificial Intelligence-based image recognition and semantic processing technology to create an AI-fueled medical system based on evidence-based medical experience to realize Artificial Intelligence-assisted medical assistance, such as intelligent health alerts and epidemic-informed decisions. In the project, I mainly worked on the semantic processing of evidence-based medical information, and also efforted to the construction of medical image recognition system.
       - layout: top-left
         title: Institute of Botany, Chinese Academy of Sciences
         sub_title: Research Assistant Intern
         caption: Jun 2014 - Aug 2014 · 3 mos
         link: 
         description: | # this will include new lines to allow paragraphs
-          He was involved in the digital identification of biodiversity documentation and specimens. This project is based on the identification of current and historical biodiversity distributions using optical image processing (OCR) technology and geospatially formatted data based on text description dumps, with the ultimate goal of establishing a database of the distribution of Chinese vascular plant diversity at the county level or equivalent spatial scale based on historical documentation.
+           I engaged in the digital identification of biodiversity data and specimens. This project is based on the identification of current and historical biodiversity distributions using optical image processing (OCR) technology and geospatially formatted data based on text description dumps, with the ultimate goal of establishing a database of the distribution of Chinese vascular plant diversity at the county level or equivalent spatial scale based on historical documentation.
   - title: Education
     layout: list
     content:
@@ -189,7 +191,11 @@ content:
         quote: >
           Department of Environmental Science and Engineering, Fudan University
         description: | # this will include new lines to allow paragraphs
-          Ph.D. student at Fudan University, research focuses on land system science and industrial system science. (updating...)
+          Ph.D. student at Fudan University, research focuses on land system science and environmental system analysis. My main contribution is in identifying and building entity-level national land-use dataset, and further quantification of land telecouplings and network relationships. I established a land use estimation system using crowdsourced data and machine learning approach. We provide spatially explicit land use inventories at a spatial resolution of 30m for all economic sectors (42 categories). This provides potential value for related studies in industrial ecology and urban ecology, such as quantifying spatially explicit environmental impacts, bridging the gap between top-down and bottom-up statistics, exploring industrial agglomeration and economic geographic distribution, and understanding urban scaling & human mobility.
+
+          Skills: PL/SQL · postgis · GEE · Matlab · GIS/RS · WebDesign
+
+          Knowledge: Industrial Ecology · Environmental Accounting · Urban metabolism · System Science · Sustainable Science
       - layout: top-left
         title: Chinese Academy of Sciences
         sub_title: Landscape Ecology
@@ -198,8 +204,11 @@ content:
         quote: >
           Research Center for Eco-Environmental Sciences, The Chinese Academy of Sciences
         description: | # this will include new lines to allow paragraphs
-          He completed his MS degree in Landscape Ecology at the Chinese Academy of Sciences (2018). He focused on urban heats island.
-          Skills: Python (Programming Language) · R (Programming Language) · Urban Ecology · Urban Economics · Geographic Information Systems (GIS) · Ecosystem Services
+          During my MS., I revealed how the spatial landscape pattern of anthropogenic heat and land cover influence and shape the urban thermal environment, using source-sink theory and landscape ecology theory. Beijing, one of the biggest megacities in China, was taken as the research area. A hierarchical grid system was established, and the landscape pattern was assessed within each grid. We evaluated the spatial and temporal dynamics of urban heat island intensities through time-series thermal infrared remote sensing images. Multivariate stepwise regression was used to quantify the effects of landscape composition, landscape pattern, and anthropogenic heat intensity to urban heat islands.
+
+          Skills: Python · R · GIS · RS
+
+          Knowledge: Urban Ecology · Landscape Ecology · Ecosystem Services · Geographic Science
       - layout: top-left
         title: Shandong University
         sub_title: Ecology (Life Science)
