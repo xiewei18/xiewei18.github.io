@@ -158,8 +158,7 @@ content:
     layout: list
     content:
       - layout: top-left
-        title: |
-          *International Institute for Applied Systems Analysis (IIASA)*
+        title: International Institute for Applied Systems Analysis (IIASA)
         sub_title: Research Assistant - YSSP Fellow
         caption: Jun 2022 - Oct 2022 · 5 mos
         link: https://iiasa.ac.at
@@ -167,16 +166,14 @@ content:
           Participated as a YSSP fellow in Systemic Risk and Resilience (SYRR) group, Advancing System Analysis (ASA) program at IIASA.
           The project aims to explore the virtual flow and network relationship of international inter-provincial land resources related to non-agricultural production activities in China. Based on a pre-established multi-regional and multi-sectoral land use dataset, we identified the land use footprints of and the interwoven connections among economic sectors and regions in China. The result shows that land resource use exhibits a high degree of spatial concentration and heterogeneity. High production-based footprints were mainly found in the east coastal provinces, with high industrial development, while high consumption-based footprint was mainly related to the provincial population. The industrially developed provinces, as the main virtual land outflow areas, also exhibit a more complex network structure, with higher total system throughflow, more resource flow pathways, longer path length, and greater circularity. Our results reveal the association between human socioeconomic activity with direct land demand and virtual land flows. It helps to understand the operation and future land demand of urban systems.
       - layout: top-left
-        title: |
-          *IBM China Research Laboratory*
+        title: IBM China Research Laboratory
         sub_title: Engineer Intern
         caption: Sep 2017 - Feb 2018 · 6 mos
         link: 
         description: | # this will include new lines to allow paragraphs
           I involved as an intern engineer in the AI intelligent medical project at IBM China Research Laboratory. This endeavor seeks to employ Artificial Intelligence-based image recognition and semantic processing technology to create an AI-fueled medical system based on evidence-based medical experience to realize Artificial Intelligence-assisted medical assistance, such as intelligent health alerts and epidemic-informed decisions. In the project, I mainly worked on the semantic processing of evidence-based medical information, and also efforted to the construction of medical image recognition system.
       - layout: top-left
-        title: |
-          *Institute of Botany, Chinese Academy of Sciences*
+        title: Institute of Botany, Chinese Academy of Sciences
         sub_title: Research Assistant Intern
         caption: Jun 2014 - Aug 2014 · 3 mos
         link: 
@@ -186,8 +183,7 @@ content:
     layout: list
     content:
       - layout: top-left
-        title: |
-          *Fudan University*
+        title: Fudan University
         sub_title: Environmental Science
         caption: Ph.D. 2018 - present
         link: https://www.fudan.edu.cn
@@ -200,8 +196,7 @@ content:
 
           Knowledge: Industrial Ecology · Environmental Accounting · Urban metabolism · System Science · Sustainable Science
       - layout: top-left
-        title: |
-          *Chinese Academy of Sciences*
+        title: Chinese Academy of Sciences
         sub_title: Landscape Ecology
         caption: M.S. 2015 - 2018
         link: https://www.rcees.ac.cn
@@ -214,8 +209,7 @@ content:
 
           Knowledge: Urban Ecology · Landscape Ecology · Ecosystem Services · Geographic Science
       - layout: top-left
-        title: |
-          *Shandong University*
+        title: Shandong University
         sub_title: Ecology (Life Science)
         caption: B.S. 2011 - 2015 
         link: https://www.sdu.edu.cn
