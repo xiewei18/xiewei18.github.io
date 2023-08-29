@@ -2,7 +2,7 @@
 
 Personal Curriculum Vitae (CV) website of Wei.
 
-Here is the right way to find Wei. :D
+Here is the [right way](https://cv.xiewei.link) to find Wei. :D
 
 ![Preview](images/pagepreview.png)
 
