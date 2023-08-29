@@ -92,11 +92,17 @@ content:
   - title: Publication
     layout: text
     content: |+ # this will include new lines to allow paragraphs
+      <mark>2023</mark>
+      
+      - **Xie, W.**, Yang, X., Han, Z., Sun, M., Li, Y., Xie, H., Yu, H., Chen, B., Fath B., Wang, Y. (2023). Urban Sector Land Use Metabolism Reveals Inequalities and Exploitation Across Cities in Regional Network Analysis.(Preprint) [http://doi.org/10.2139/ssrn.4516668](http://dx.doi.org/10.2139/ssrn.4516668){:target="_blank"}
+      
+      - Yang, X., Lu, X., Li, N., Wang, C., **Xie, W.**, Zhong, Q., & Liang, S. (2023). Local Full-Sector Land Uses Influenced by Multiregional Demand and Supply: The Case of Beijing. Ecosystem Health and Sustainability, 9, 0075. [https://doi.org/10.34133/ehs.0075](https://doi.org/10.34133/ehs.0075){:target="_blank"}
+
       <mark>2022</mark>
 
       - **Xie, W.** (2022). Ecological network analysis of urban land resource use within China [IIASA YSSP Report]. IIASA. [https://pure.iiasa.ac.at/id/eprint/18728/](https://pure.iiasa.ac.at/id/eprint/18728/){:target="_blank"}
 
-      - **Xie, W.**, Yu, H., Li, Y., Dai, M., Long, X., Li, N., & Wang, Y. (2022). Estimation of entity‐level land use and its application in urban sectoral land use footprint: A bottom‐up model with emerging geospatial data. Journal of Industrial Ecology, 26(1), 309–322. [https://doi.org/10.1111/jiec.13191](https://doi.org/10.1111/jiec.13191){:target="_blank"}
+      - **Xie, W.**, Yu, H., Li, Y., Dai, M., Long, X., Li, N., & Wang, Y. (2022). Estimation of entity‐level land use and its application in urban sectoral land use footprint: A bottom‐up model with emerging geospatial data. Journal of Industrial Ecology, 26(1), 309–322. [https://doi.org/10.1111/jiec.13191](https://doi.org/10.1111/jiec.13191){:target="_blank"} <mark>Nominated - [2022 Graedel Prize](https://doi.org/10.1111/jiec.13437){:target="_blank"}</mark>
       
       <mark>2021</mark>
 
