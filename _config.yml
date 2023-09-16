@@ -233,6 +233,12 @@ content:
           **Skills**: *WebDesign · Linux · Computer Maintenance · Basic Coding*
 
           **Knowledge**: *Ecology · Life Science*
+  
+  - title: Scientific Community Service
+    layout: text
+    content: |+
+    - Reviewer for *Journal of Cleaner Production*, *Journal of Industrial Ecology*, *Ecological Indicators*, and *NJAS: Impact in Agricultural and Life Sciences*.
+
   - title: In a way 🌱 About Wei
     layout: text
     content: | # this will include new lines to allow paragraphs
