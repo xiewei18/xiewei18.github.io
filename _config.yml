@@ -54,16 +54,19 @@ googlescholar_username: XBUp9EoAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/gprofile.png
 about_content: | # this will include new lines to allow paragraphs
+
   Wei XIE is currently a Ph.D. candidate at [Fudan University](https://www.fudan.edu.cn/en/About/main.htm){:target="_blank"} in Environmental Science. 
   He is also a YSSP in Advancing System Analysis ([ASA](https://iiasa.ac.at/programs/asa){:target="_blank"}) program at [IIASA](https://iiasa.ac.at/){:target="_blank"} in the year 2022. He graduated from [Shandong University](https://www.en.sdu.edu.cn/){:target="_blank"}, China, in 2015 with a degree in Ecology. 
   He completed his MS degree in Landscape Ecology at the [Chinese Academy of Sciences](http://english.rcees.cas.cn/){:target="_blank"} (2018). 
   
-  His main fields of scientific interest include <mark>land system science</mark>, <mark>urban metabolism</mark>, and <mark>industrial system analysis</mark>. 
+  His main fields of scientific interest include <mark>ecosystem health</mark>, <mark>land system science</mark>, <mark>urban metabolism</mark>, and <mark>spatial-explicit human footprint</mark>. 
   
   Specifically, he focuses on: 1) the **land resource use** and virtual **flows** between industrial and socio-economic systems; 
   and 2) the **interactions** between **natural systems and human systems** linked to land use.
 
   He is familiar with *Python & R*, *GIS*, *PL/SQL*, and *ML* skills.
+
+  He has a keen interest in open science and open systems.
 
   Find my research via [ResearchGate](https://www.researchgate.net/profile/Wei-Xie-9){:target="_blank"} or [GoogleScholar](https://scholar.google.com/citations?user=XBUp9EoAAAAJ&hl=en&oi=ao){:target="_blank"}.
    & Reach me through [Twitter](https://twitter.com/wxie96){:target="_blank"} or [Email](mailto:wxie18@fudan.edu.cn){:target="_blank"}.
@@ -92,10 +95,14 @@ content:
   - title: Publication
     layout: text
     content: |+ # this will include new lines to allow paragraphs
+      <mark>2024</mark>
+      
+      - **Xie, W.**, Yang, X., Han, Z., Sun, M., Li, Y., Xie, H., Yu, H., Chen, B., Fath B., Wang, Y. (2024). Urban sector land use metabolism reveals inequalities across cities and inverse virtual land flows. Resources, Conservation and Recycling, 202, 107394. [http://doi.org/10.1016/j.resconrec.2023.107394](http://doi.org/10.1016/j.resconrec.2023.107394){:target="_blank"}
+      
+      - Han, Z., **Xie, W.**, Yu, H., Li, Y., Wang, Y. Rethinking industrial land-use in American rust cities towards sustainability based on a block-level model. Journal of Environmental Management. (In press).
+
       <mark>2023</mark>
-      
-      - **Xie, W.**, Yang, X., Han, Z., Sun, M., Li, Y., Xie, H., Yu, H., Chen, B., Fath B., Wang, Y. (2023). Urban Sector Land Use Metabolism Reveals Inequalities and Exploitation Across Cities in Regional Network Analysis.(Preprint) [http://doi.org/10.2139/ssrn.4516668](http://dx.doi.org/10.2139/ssrn.4516668){:target="_blank"}
-      
+
       - Yang, X., Lu, X., Li, N., Wang, C., **Xie, W.**, Zhong, Q., & Liang, S. (2023). Local Full-Sector Land Uses Influenced by Multiregional Demand and Supply: The Case of Beijing. Ecosystem Health and Sustainability, 9, 0075. [https://doi.org/10.34133/ehs.0075](https://doi.org/10.34133/ehs.0075){:target="_blank"}
 
       <mark>2022</mark>
